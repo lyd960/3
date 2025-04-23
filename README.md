@@ -1,4 +1,6 @@
-#雷雨典 324080203104 
+##神经网络程序的修改
+#雷雨典 324080203104 24机械一班 https://github.com/lyd960/3/commit/17ade1c99610867c7506092a582432f8c8b92ac5
+##1
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_moons
@@ -134,7 +136,7 @@ def plot_decision_boundary(pred_func):
 plot_decision_boundary(lambda x: nn.predict(x))
 
 
-
+##2
 # 导入必要的库
 import numpy as np  # 数值计算库
 import matplotlib.pyplot as plt  # 绘图库
@@ -350,6 +352,7 @@ plt.savefig("logistic_regression_decision_boundary.png", dpi=300)
 plt.show()
 
 
+##3
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_moons
@@ -468,7 +471,7 @@ plt.savefig("sigmoid_decision_boundary.png", dpi=300)
 plt.show()
 
 
-
+##4
 # 导入必要的库
 import numpy as np
 import matplotlib.pyplot as plt

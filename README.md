@@ -1,5 +1,5 @@
 ##神经网络程序的修改
-#雷雨典 324080203104 24机械一班 https://github.com/lyd960/3/commit/17ade1c99610867c7506092a582432f8c8b92ac5
+#雷雨典 324080203104 24机械一班 https://github.com/lyd960/3/blob/main/README.md
 ##1
 import numpy as np
 import matplotlib.pyplot as plt
